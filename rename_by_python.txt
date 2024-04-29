@@ -1,0 +1,1 @@
+The os module allows you to use the operating system-dependent functionalities. To use the os module to delete a file, we import it, then use the remove() function provided by the module to delete the file. It takes the file path as a parameter. You can not just delete a file but also a directory using the os module

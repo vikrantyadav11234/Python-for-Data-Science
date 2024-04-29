@@ -1,0 +1,4 @@
+Char or substring: You can specify a single character or substring you are wants to search in the given string.\n 
+It will return you the count of the character or substring in the given string.
+start : (optional) It indicates the start index from where the search will begin. If not given, it will start from 0.\n For example, you want to search for a character from the middle of the string. You can give the start value to your count function. 
+end:(optional) It indicates the end index where the search ends.\n If not given, it will search till the end of the list or string given. For example, you don’t want to scan the entire string and limit the search till a specific point you can give the value to\n end in your count function, and the count will take care of searching till that point.

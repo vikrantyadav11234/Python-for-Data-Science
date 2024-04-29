@@ -1,0 +1,1 @@
+division by zerounsupported operand type(s) for /: 'int' and 'str'name 'c' is not defined
